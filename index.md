@@ -1,13 +1,14 @@
 # Forecasting and Risk
-This set of learning materials for undergraduate class was first developed and is currently being maintained by Zhaohu (Jonathan) Fan. 
- <!---Many materials are from [Dr. Yan Yu](https://business.uc.edu/faculty-and-research/departments/obais/faculty/yan-yu.html)’s class notes. --->
- <!---Thanks for the contribution from previous Ph.D. students. --->
-<!---http://jeffgoldsmith.com/IWAFDA/shortcourse_fosr.html>
+This set of learning materials for undergraduate class was first developed and is currently being maintained by Zhaohu (Jonathan) Fan.
+
+<!---Many materials are from [Dr. Yan Yu](https://business.uc.edu/faculty-and-research/departments/obais/faculty/yan-yu.html)’s class notes. --->
+<!---Thanks for the contribution from previous Ph.D. students. --->
+<!---http://jeffgoldsmith.com/IWAFDA/shortcourse_fosr.html --->
  
 ## lecture materials (slides) and code demonstrating the relevant methods.
 
 
-### Introduction to Data Mining and Python
+<!---### Introduction to Data Mining and Python
 
 |              | Description                                                                                     | 
 |   :----:     |      :---                                                                                       |      
@@ -107,17 +108,19 @@ This set of learning materials for undergraduate class was first developed and i
 
 |              | Description                                                                                     | 
 |   :----:     |      :---                                                                                       |         
-| 12.A         |                   [Basic Text Mining](.html)                                                    |   
+| 12.A         |                   [Basic Text Mining](.html)                                                    |
+--->
 
 	
 
 
-In Class Exercises
-Data Sets: data_chicago.csv, data_delta.csv, data_vote.csv
-Homework:
+-In Class Exercises 
+   Data Sets: data_chicago.csv, data_delta.csv, data_vote.csv
+   Homework:
 
-Please check homework in canopy.uc.edu and submit all your homework through Canopy.
-Final Project:House prices in Cincinnati.
+- Please check homework in canopy.uc.edu and submit all your homework through Canopy.
+
+- Final Project:House prices in Cincinnati.
 
 
 Contributors:  
