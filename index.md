@@ -109,6 +109,16 @@ This set of learning materials for undergraduate class was first developed and i
 |   :----:     |      :---                                                                                       |         
 | 12.A         |                   [Basic Text Mining](.html)                                                    |   
 
+	
+
+
+In Class Exercises
+Data Sets: data_chicago.csv, data_delta.csv, data_vote.csv
+Homework:
+
+Please check homework in canopy.uc.edu and submit all your homework through Canopy.
+Final Project:House prices in Cincinnati.
+
 
 Contributors:  
 - Zhaohu(Jonathan) Fan, PhD Candidate in Business Analytics, psujohnny@gmail.com
