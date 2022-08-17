@@ -123,7 +123,7 @@ This set of learning materials for undergraduate class was first developed and i
 - Final Project:House prices in Cincinnati.
 
 Contributors:  
-- Zhaohu(Jonathan) Fan, PhD Candidate in Business Analytics, psujohnny@gmail.com
+- Zhaohu (Jonathan) Fan, PhD Candidate in Business Analytics, psujohnny@gmail.com.
 - Xiaorui Zhu, Ph.D. (2022) Tenure Track Assistant Professor in Business Analytics at Towson University.
 
  
