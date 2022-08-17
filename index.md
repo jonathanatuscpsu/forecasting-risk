@@ -1,11 +1,11 @@
 # Forecasting and Risk
-This set of learning materials for undergraduate class was first developed and is currently being maintained by Zhaohu(Jonathan) Fan. 
+This set of learning materials for undergraduate class was first developed and is currently being maintained by Zhaohu (Jonathan) Fan. 
  <!---Many materials are from [Dr. Yan Yu](https://business.uc.edu/faculty-and-research/departments/obais/faculty/yan-yu.html)’s class notes. --->
  <!---Thanks for the contribution from previous Ph.D. students. --->
+<!---http://jeffgoldsmith.com/IWAFDA/shortcourse_fosr.html>
+ 
+## lecture materials (slides) and code demonstrating the relevant methods.
 
-
-
-## Lecture and Lab Notes
 
 ### Introduction to Data Mining and Python
 
