@@ -5,7 +5,7 @@ This set of learning materials for undergraduate class was first developed and i
 <!---Thanks for the contribution from previous Ph.D. students. --->
 <!---http://jeffgoldsmith.com/IWAFDA/shortcourse_fosr.html --->
  
-## lecture materials (slides) and code demonstrating the relevant methods.
+## Lecture materials (slides) and code demonstrating the relevant methods.
 
 
 <!---### Introduction to Data Mining and Python
@@ -111,25 +111,21 @@ This set of learning materials for undergraduate class was first developed and i
 | 12.A         |                   [Basic Text Mining](.html)                                                    |
 --->
 
-	
+ <!--- --->	
 
 
--In Class Exercises 
-   Data Sets: data_chicago.csv, data_delta.csv, data_vote.csv
-   Homework:
+- In Class Exercises 
+   - Data Sets: data_chicago.csv, data_delta.csv, data_vote.csv
+   - Homework:
 
 - Please check homework in canopy.uc.edu and submit all your homework through Canopy.
 
 - Final Project:House prices in Cincinnati.
 
-
 Contributors:  
 - Zhaohu(Jonathan) Fan, PhD Candidate in Business Analytics, psujohnny@gmail.com
-- Harsh Singal,  M.S. in Bubiness Analytics (current position: Data Scientist - Product Analytics at Asurion).
 - Xiaorui Zhu, Ph.D. (2022) Tenure Track Assistant Professor in Business Analytics at Towson University.
-- And many more. 
 
- <!--- --->
  
  
 Acknowledgments: I have drawn ideas or readings from the following texts:
