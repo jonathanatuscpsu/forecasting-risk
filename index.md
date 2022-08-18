@@ -17,6 +17,22 @@ This set of online learning materials for undergraduate class was first develope
 |   :----:     |      :---                                                                                       |      
 | 2       |                       |   
 
+### Lecture 3
+|              | Description                                                                                     | 
+|   :----:     |      :---                                                                                       |      
+| 2       |                       |   
+
+### Lecture 4
+|              | Description                                                                                     | 
+|   :----:     |      :---                                                                                       |      
+| 2       |                       |   
+
+### Lecture 5
+|              | Description                                                                                     | 
+|   :----:     |      :---                                                                                       |      
+| 2       |                       |   
+
+
 
 
 <!---### Introduction to Data Mining and Python
