@@ -4,7 +4,7 @@ This set of online learning materials for undergraduate class was first develope
 <!---Thanks for the contribution from previous Ph.D. students. --->
 <!---http://jeffgoldsmith.com/IWAFDA/shortcourse_fosr.html --->
  
-# Lecture materials (slides) and code demonstrating the relevant methods.
+## Lecture materials (slides) and code demonstrating the relevant methods.
 
 
 <!---### Introduction to Data Mining and Python
@@ -126,8 +126,8 @@ Contributors:
 - Xiaorui Zhu, Ph.D. (2022) Tenure Track Assistant Professor in Business Analytics at Towson University.
 --->	
  
- 
+<!--
 Acknowledgments: I have drawn ideas or readings from the following texts:
  - Ethan Swan, [Python for Data Science](https://github.com/uc-python)
  - And many more.
- <!--- --->
+- --->
