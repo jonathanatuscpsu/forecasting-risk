@@ -1,11 +1,10 @@
-# Forecasting and Risk
-This set of learning materials for undergraduate class was first developed and is currently being maintained by Zhaohu (Jonathan) Fan.
+This set of online learning materials for undergraduate class was first developed and is currently being maintained by Zhaohu (Jonathan) Fan.
 
 <!---Many materials are from [Dr. Yan Yu](https://business.uc.edu/faculty-and-research/departments/obais/faculty/yan-yu.html)’s class notes. --->
 <!---Thanks for the contribution from previous Ph.D. students. --->
 <!---http://jeffgoldsmith.com/IWAFDA/shortcourse_fosr.html --->
  
-## Lecture materials (slides) and code demonstrating the relevant methods.
+# Lecture materials (slides) and code demonstrating the relevant methods.
 
 
 <!---### Introduction to Data Mining and Python
@@ -112,7 +111,7 @@ This set of learning materials for undergraduate class was first developed and i
 --->
 
  <!--- --->	
-
+ <!---
 
 - In Class Exercises 
    - Data Sets: data_chicago.csv, data_delta.csv, data_vote.csv
@@ -125,7 +124,7 @@ This set of learning materials for undergraduate class was first developed and i
 Contributors:  
 - Zhaohu (Jonathan) Fan, PhD Candidate in Business Analytics, psujohnny@gmail.com.
 - Xiaorui Zhu, Ph.D. (2022) Tenure Track Assistant Professor in Business Analytics at Towson University.
-
+--->	
  
  
 Acknowledgments: I have drawn ideas or readings from the following texts:
