@@ -6,6 +6,18 @@ This set of online learning materials for undergraduate class was first develope
  
 ## Lecture materials (slides) and code demonstrating the relevant methods.
 
+### Lecture 1
+|              | Description                                                                                     | 
+|   :----:     |      :---                                                                                       |      
+| 1        |                       |   
+
+
+### Lecture 2
+|              | Description                                                                                     | 
+|   :----:     |      :---                                                                                       |      
+| 2       |                       |   
+
+
 
 <!---### Introduction to Data Mining and Python
 
