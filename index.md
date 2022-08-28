@@ -200,9 +200,8 @@ Contributors:
 - Xiaorui Zhu, Ph.D. (2022) Tenure Track Assistant Professor in Business Analytics at Towson University.
 --->	
  
-<!--
+
 Acknowledgments: I have drawn ideas or readings from the following texts:
  - Bradley Boehmke, [UC BANA 6043 Statistical Computing](https://github.com/bradleyboehmke/uc-bana-6043)
  - Ethan Swan, [Python for Data Science](https://github.com/uc-python)
  - And many more.
-- --->
