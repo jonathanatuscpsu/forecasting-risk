@@ -1,5 +1,5 @@
+Welcome to Forecasting and Risk! This course provides an intensive, hands-on introduction to statistical computing and data science with the R programming language. 
 
-UC BANA 4090 Forecasting and Risk
 ================
 
 **This set of online learning materials for undergraduate class was first developed and is currently being maintained by Zhaohu (Jonathan) Fan 🚀**.
@@ -8,10 +8,7 @@ UC BANA 4090 Forecasting and Risk
 <!---Thanks for the contribution from previous Ph.D. students. --->
 <!---http://jeffgoldsmith.com/IWAFDA/shortcourse_fosr.html --->
  
-## Lecture materials (slides) and code demonstrating the relevant methods.
 
-
-Welcome to Forecasting and Risk! This course provides an intensive, hands-on introduction to statistical computing and data science with the R programming language. 
 ## Learning Objectives
 
 Upon successfully completing this course, you will:
@@ -19,7 +16,7 @@ Upon successfully completing this course, you will:
 * 
 * 
 * 
-## Schedule
+## Lecture materials (slides) and code demonstrating the relevant methods.
 
 | Module        | Description                                                         |
 |:-------------:|:--------------------------------------------------------------------|
