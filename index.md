@@ -1,5 +1,5 @@
 
-UC BANA 4090 Statistical Computing
+UC BANA 4090 Forecasting and Risk
 ================
 
 **This set of online learning materials for undergraduate class was first developed and is currently being maintained by Zhaohu (Jonathan) Fan 🚀**.
@@ -11,30 +11,25 @@ UC BANA 4090 Statistical Computing
 ## Lecture materials (slides) and code demonstrating the relevant methods.
 
 
-Welcome to Statistical Computing with Python! This course provides an intensive, hands-on introduction to statistical computing and data science with the Python programming language. You will gain foundational skills in managing data structures, performing data wrangling, computing and visualizing statistical relationships, managing various environments conducive for statistical analysis, and performing machine learning modeling. Most importantly, since this course only has time to introduce foundational skills, much emphasis is placed on giving you a mental model of Python's data science ecosystem so you know how, when, and where to continue advancing your statistical computing capabilities.
-
+Welcome to Forecasting and Risk! This course provides an intensive, hands-on introduction to statistical computing and data science with the R programming language. 
 ## Learning Objectives
 
 Upon successfully completing this course, you will:
 
-* Have a mental model of the Python data science ecosystem: libraries, capabilities, vocabulary, and widely-available Python resources.
-* Have the ability to use Python within both interactive (Jupyter, REPL) and non-interactive (scripts) environments.
-* Be able to perform core data wrangling activities: importing data, reshaping data, transforming data, and exporting data.
-* Be able to compute descriptive statistics and visualize key patterns and relationships with your data.
-* Be exposed to modeling via scikit-learn and discuss the fundamentals of building models in Python.
-* Have the resources and understanding to continue advancing your statistical computing capabilities.
-
+* 
+* 
+* 
 ## Schedule
 
 | Module        | Description                                                         |
 |:-------------:|:--------------------------------------------------------------------|
-| **1**         | **Starting with the Basics**                                        |
-|               | Introduction to JupyterLab and the notebook environment             |
-|               | Python fundamentals                                                 |
-| **2**         | **Python Data Science Ecosystem & DataFrames**                      |
-|               | Modules, packages, and a preview of Python's data science ecosystem |
-|               | Importing data and working with DataFrames                          |
-| **3**         | **Data Wrangling Part 1**                                           |
+| **1**         | **Starting **                                        |
+|               | Introduction to             |
+|               | Python                                                 |
+| **2**         | **Python **                      |
+|               | Modules,  |
+|               | I                         |
+| **3**         | **Data 1**                                           |
 |               | Subsetting and manipulating data                                    |
 |               | Computing summary statistics at different levels                    |
 | **4**         | **Data Wrangling Part 2**                                           |
@@ -207,6 +202,7 @@ Contributors:
  
 <!--
 Acknowledgments: I have drawn ideas or readings from the following texts:
+ - Bradley Boehmke, [UC BANA 6043 Statistical Computing](https://github.com/bradleyboehmke/uc-bana-6043)
  - Ethan Swan, [Python for Data Science](https://github.com/uc-python)
  - And many more.
 - --->
