@@ -53,7 +53,7 @@ Upon successfully completing this course, you will be able to:
 <!---http://jeffgoldsmith.com/IWAFDA/shortcourse_fosr.html 
 The primary course material is provided via this Jupyter Book resource [:closed_book:](https://bradleyboehmke.github.io/uc-bana-6043/).--->
 
-** Class video, homework and class projects are available in Canvas. Please check homework in Canvas and submit all your homework through Canvas.All announcements are in Canvas.** 
+**Class video, homework and class projects are available in Canvas. Please check homework in Canvas and submit all your homework through Canvas.All announcements are in Canvas.** 
 
 
 
