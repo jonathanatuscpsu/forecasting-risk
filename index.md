@@ -10,7 +10,7 @@ Welcome to Forecasting and Risk! This course provides an intensive, hands-on int
 Upon successfully completing this course, you will be able to: 
 
 * identify the appropriate techniques to use to analyze time series data 
-* Use R for implementing forecasting 
+* use R for implementing forecasting 
 * interpret the output provided by R
 
 ## Lecture materials (slides) and code demonstrating the relevant methods.
