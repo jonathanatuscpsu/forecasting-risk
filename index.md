@@ -50,19 +50,20 @@ Upon successfully completing this course, you will be able to:
  
  - **Project**  – The project is a core component of this course. Students will pick a topic and dataset of their choosing to analyze and forecast with the methods taught in this course (and ideally some additional methods). These topics will be submitted in March and the analyses will be presented during week 15. In lieu of a final exam, students will submit a reproducible markdown/notebook.
 
-The primary course material is provided via this Jupyter Book resource [:closed_book:](https://bradleyboehmke.github.io/uc-bana-6043/).
+<!---http://jeffgoldsmith.com/IWAFDA/shortcourse_fosr.html 
+The primary course material is provided via this Jupyter Book resource [:closed_book:](https://bradleyboehmke.github.io/uc-bana-6043/).--->
 
 - Class video, homework and class projects are available in Canvas. All announcements are in Canvas.
 - Please check homework in Canvas and submit all your homework throughCanvas.
 
 
 
-- In Class Exercises 
+<!---In Class Exercises 
    - Data Sets: data_chicago.csv, data_delta.csv, data_vote.csv
    - Homework:
 
 
-- Final Project:House prices in Cincinnati.
+- Final Project:House prices in Cincinnati.--->
 
 Contributors:  
 - Zhaohu (Jonathan) Fan, PhD Candidate in Business Analytics, psujohnny@gmail.com.
