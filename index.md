@@ -21,7 +21,32 @@ Upon successfully completing this course, you will:
 | **1**         | **Module 1 – Practical Time Series Analysis (weeks 1-3)**          |
 |               | •	Why is time series analysis and forecasting important?             |
 |               | •	How to approach a forecasting problem 
-|                        | •	How to approach a forecasting problem |
+|                        | •	Visualization and exploration of time series data |
+|                        | •		Wrangling with time series objects|
+|                        |•	Decomposition |
+|                        |•	Features of time series data
+| **2**         | **Module 2 – Forecasting Basics (weeks 4-6)**          |
+|                        |•	Forecasting process
+|                        |•	Regression
+|                        |•	Exponential smoothing
+|                        |•	Evaluation of model performance
+| **3**         | **Module 3 – Forecasting Models (weeks 7-10)**          |
+|                        |•	ARIMA
+|                        |•	Dynamic Regression Models
+|                        |•	Practical considerations
+| **4**         | **Module 4 – Additional Topics   (weeks 11-14)**          |
+|                        |•	Hierarchical time series and forecasting many time series
+|                        |•	Deep learning for forecasting
+|                        |•	Prophet
+|                        |•	Anomaly detection
+|                        |•	Other R packages for efficient analysis and modeling
+|                        |•	Anomaly detection
+
+|                        |
+|                        |
+|                        |
+|                        |
+|                        |
 | **2**         | **Python **                      |
 |               | Modules,  |
 |               | I                         |
