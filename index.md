@@ -18,9 +18,9 @@ Upon successfully completing this course, you will:
 
 | Module        | Description                                                         |
 |:-------------:|:--------------------------------------------------------------------|
-| **1**         | **Starting **                                        |
-|               | Introduction to             |
-|               | Python                                                 |
+| **1**         | **Module 1 – Practical Time Series Analysis (weeks 1-3) **                                        |
+|               | •	Why is time series analysis and forecasting important?             |
+|               | •	How to approach a forecasting problem                                               |
 | **2**         | **Python **                      |
 |               | Modules,  |
 |               | I                         |
