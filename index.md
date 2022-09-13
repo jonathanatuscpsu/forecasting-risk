@@ -44,10 +44,10 @@ Upon successfully completing this course, you will be able to:
 |                        |•	Anomaly detection
 
 ## Description of Major Assignments
- **Exam**  – There will be one exam given during class (~half of class) after we finish module 3 to assess grasp of key concepts of time series analysis and forecasting
- **Assignments**  – 5 take-home assignments will be given throughout the semester. Students will have 2 weeks to complete the assignments. 
- **Discussions**  – The first 14 classes will have in-class labs/discussions. Write-ups from these discussions/labs are to be submitted on Canvas by 11:59pm on the Sunday after class. If you cannot make the class, these will be posted and submission will be allowed.
-  **Project**  – The project is a core component of this course. Students will pick a topic and dataset of their choosing to analyze and forecast with the methods taught in this course (and ideally some additional methods). These topics will be submitted in March and the analyses will be presented during week 15. In lieu of a final exam, students will submit a reproducible markdown/notebook.
+ - **Exam**  – There will be one exam given during class (~half of class) after we finish module 3 to assess grasp of key concepts of time series analysis and forecasting
+ - **Assignments**  – 5 take-home assignments will be given throughout the semester. Students will have 2 weeks to complete the assignments. 
+ - **Discussions**  – The first 14 classes will have in-class labs/discussions. Write-ups from these discussions/labs are to be submitted on Canvas by 11:59pm on the   Sunday after class. If you cannot make the class, these will be posted and submission will be allowed.
+ - **Project**  – The project is a core component of this course. Students will pick a topic and dataset of their choosing to analyze and forecast with the methods taught in this course (and ideally some additional methods). These topics will be submitted in March and the analyses will be presented during week 15. In lieu of a final exam, students will submit a reproducible markdown/notebook.
 
 
 ## Getting Started
