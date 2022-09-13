@@ -4,7 +4,6 @@ Welcome to Forecasting and Risk! This course provides an intensive, hands-on int
 <!---Thanks for the contribution from previous Ph.D. students. --->
 <!---http://jeffgoldsmith.com/IWAFDA/shortcourse_fosr.html --->
  
-
 ## Learning Objectives
 
 Upon successfully completing this course, you will be able to: 
@@ -18,7 +17,7 @@ Upon successfully completing this course, you will be able to:
 | Module        | Description                                                         |
 |:-------------:|:--------------------------------------------------------------------|
 | **1**         | **Module 1 – Practical Time Series Analysis (weeks 1-3)**          |
-|      [Basic Text Mining](.html)                 | •	Why is time series analysis and forecasting important?             |
+|      [Welcome](.html)                 | •	Why is time series analysis and forecasting important?             |
 |               | •	How to approach a forecasting problem 
 |                        | •	Visualization and exploration of time series data |
 |                        | •		Wrangling with time series objects|
@@ -53,12 +52,15 @@ Upon successfully completing this course, you will be able to:
 
 The primary course material is provided via this Jupyter Book resource [:closed_book:](https://bradleyboehmke.github.io/uc-bana-6043/).
 
+- Class video, homework and class projects are available in Canvas. All announcements are in Canvas.
+- Please check homework in Canvas and submit all your homework throughCanvas.
+
+
 
 - In Class Exercises 
    - Data Sets: data_chicago.csv, data_delta.csv, data_vote.csv
    - Homework:
 
-- Please check homework in canopy.uc.edu and submit all your homework through Canopy.
 
 - Final Project:House prices in Cincinnati.
 
