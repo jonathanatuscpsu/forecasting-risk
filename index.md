@@ -8,9 +8,10 @@ Welcome to Forecasting and Risk (BANA 4090)! This course provides an intensive, 
 
 Upon successfully completing this course, you will be able to: 
 
-* identify the appropriate techniques to use to analyze time series data 
-* use R for implementing forecasting 
-* interpret the output provided by R
+* provide students with a foundational knowledge of time series analysis
+* expose students to a number of traditional and contemporary methods in time series and forecasting
+* familiarize students with many of the challenges associated with time series forecasting
+* provide students with practical experience analyzing real-world data and communicating the results
 
 ## Lecture materials (slides) and code demonstrating the relevant methods.
 
