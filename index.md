@@ -67,6 +67,7 @@ Contributors:
  
 
 Acknowledgments: I have drawn ideas or readings from the following texts:
+ - Rob J Hyndman and George Athanasopoulos, [Forecasting: Principles and Practice (3rd ed)](https://otexts.com/fpp3/)
  - Bradley Boehmke, [UC BANA 6043 Statistical Computing](https://github.com/bradleyboehmke/uc-bana-6043)
  - Ethan Swan, [Python for Data Science](https://github.com/uc-python)
  - And many more.
