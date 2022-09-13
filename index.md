@@ -43,29 +43,6 @@ Upon successfully completing this course, you will be able to:
 |                        |•	Other R packages for efficient analysis and modeling
 |                        |•	Anomaly detection
 
-|                        |
-|                        |
-|                        |
-|                        |
-|                        |
-| **2**         | **Python **                      |
-|               | Modules,  |
-|               | I                         |
-| **3**         | **Data 1**                                           |
-|               | Subsetting and manipulating data                                    |
-|               | Computing summary statistics at different levels                    |
-| **4**         | **Data Wrangling Part 2**                                           |
-|               | Tidying and joining data                                            |
-|               | Handling text data                                                  |
-| **5**         | **Data Visualization**                                              |
-|               | Higher and lower level plotting APIs                                |
-|               | Interactive visualizations                                          |
-| **6**         | **Creating Efficient Code in Python**                               |
-|               | Control statements & iteration                                      |
-|               | Writing functions                                                   |
-| **7**         | **Intro to Machine Learning with Scikit-Learn**                     |
-|               | Basics of the Scikit-learn API                                      |
-|               | Feature engineering and model evaluation/selection                  |
 
 ## Getting Started
 
