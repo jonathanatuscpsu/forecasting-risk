@@ -1,4 +1,4 @@
-Welcome to Forecasting and Risk! This course provides an intensive, hands-on introduction to statistical computing and data science with the R programming language.This set of online learning materials for undergraduate class was first developed and is currently being maintained by Zhaohu (Jonathan) Fan 🚀.
+Welcome to Forecasting and Risk (BANA 4090)! This course provides an intensive, hands-on introduction to statistical computing and data science with the R programming language.This set of online learning materials for undergraduate class was first developed and is currently being maintained by Zhaohu (Jonathan) Fan 🚀.
 
 <!---Many materials are from [Dr. Yan Yu](https://business.uc.edu/faculty-and-research/departments/obais/faculty/yan-yu.html)’s class notes. --->
 <!---Thanks for the contribution from previous Ph.D. students. --->
