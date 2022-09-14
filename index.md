@@ -1,4 +1,8 @@
-Welcome to Forecasting and Risk (BANA 4090)! This course provides an intensive, hands-on introduction to statistical computing and data science with the R programming language.This set of online learning materials for undergraduate class was first developed and is currently being maintained by Zhaohu (Jonathan) Fan 🚀.
+Welcome to Forecasting and Risk (BANA 4090)! The main objective of this course is to provide you with the proper foundation to analyze and forecast time series data in the professional setting. This means that in addition to forecasting into the future and evaluating such forecasts we will discuss other topics to prepare you for your journey as an analyst. While covering core concepts like univariate and multivariate forecasting/evaluation of forecasts are critical, I believe we should also cover topics like approaching a forecasting a problem, wrangling with time series data/objects, advanced topics like neural networks for time series, hierarchical data and practical issues when approaching a problem and implementing a solution.  
+
+While I will try to focus on the application over the theory to maximize the above objectives, I will provide additional optional reading for those interested in a deeper dive into the theory 🚀. 
+
+
 
 <!---Many materials are from [Dr. Yan Yu](https://business.uc.edu/faculty-and-research/departments/obais/faculty/yan-yu.html)’s class notes. --->
 <!---Thanks for the contribution from previous Ph.D. students. --->
