@@ -13,7 +13,9 @@ While I will try to focus on the application over the theory to maximize the abo
 *	Equip students with proper foundation to approach time series analysis and forecasting projects 
 
   	- Framework for approaching forecasting projects 
+  	
   	- Understanding of traditional and modern approaches to forecasting 
+  	
   	- Exposure to common challenges and how to overcome 
 
 * Provide of project for portfolio 
