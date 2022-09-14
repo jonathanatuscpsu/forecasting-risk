@@ -10,12 +10,20 @@ While I will try to focus on the application over the theory to maximize the abo
  
 ## Learning Objectives
 
-Upon successfully completing this course, you will be able to: 
+*	Equip students with proper foundation to approach time series analysis and forecasting projects 
+  	- Framework for approaching forecasting projects 
+   - Understanding of traditional and modern approaches to forecasting 
+   - Exposure to common challenges and how to overcome 
+* Provide of project for portfolio 
+*	Practice with R programming language as it relates to time series data 
+
+
+<!---Upon successfully completing this course, you will be able to: 
 
 * provide students with a foundational knowledge of time series analysis
 * expose students to a number of traditional and contemporary methods in time series and forecasting
 * familiarize students with many of the challenges associated with time series forecasting
-* provide students with practical experience analyzing real-world data and communicating the results
+* provide students with practical experience analyzing real-world data and communicating the results --->
 
 ## Lecture materials (slides) and code demonstrating the relevant methods.
 
