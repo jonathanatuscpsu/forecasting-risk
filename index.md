@@ -4,6 +4,12 @@ While I will try to focus on the application over the theory to maximize the abo
 
 
 
+
+This is a course in the analysis of time series data with emphasis on appropriate choice of models for estimation, testing, and forecasting. Topics or methodologies covered include Univariate Box-Jenkins for fitting and forecasting time series; ARIMA models, stationarity and nonstationarity; diagnosing time series models; transformations; forecasting: point and interval forecasts; seasonal time series models; modeling volatility with ARCH, GARCH; modeling time series with trends; and other methods. 
+
+A survey of analytical techniques used in forecasting.  Techniques include exponential smoothing ARIMA, multiple regression, classification methods and judgement-based methods.  Implementation issues and challenges are discussed.
+
+
 <!---Many materials are from [Dr. Yan Yu](https://business.uc.edu/faculty-and-research/departments/obais/faculty/yan-yu.html)’s class notes. --->
 <!---Thanks for the contribution from previous Ph.D. students. --->
 <!---http://jeffgoldsmith.com/IWAFDA/shortcourse_fosr.html --->
