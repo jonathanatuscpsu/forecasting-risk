@@ -60,7 +60,7 @@ While I will try to focus on the application over the theory to maximize the abo
 | **3**         | **Module 3 – Forecasting Models (weeks 7-10)**          |
 |    [ARIMA-Part I](Ch4-1.pdf)                    |•	AR, MA, ARMA|
 |     [ARIMA-Part II](Ch4-2.pdf)                   |•	ARIMA|
-|    [ARIMA-Part III](Ch4-3.pdf)                      |
+|    [ARIMA-Part III](Ch4-3.pdf)                      |•	ARIMA|
 |   [R lab-VIII](BANA4090_Week8_Lab8.html)  |•	Practical considerations-I |
  |   [R lab-IX](BANA4090_Week9_Lab9.html)  |•	R lab (ARIMA-I)|
  |   [R lab-X]( BANA4090_Week11_Lab10.html)  |•	R lab (ARIMA-II)|
