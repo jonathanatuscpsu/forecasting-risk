@@ -55,7 +55,7 @@ While I will try to focus on the application over the theory to maximize the abo
 | **2**         | **Module 2 – Forecasting Basics (weeks 4-6)**          |
 |     [Forecasting Basics-Part I](Ch3-1.pdf)                    |•	Forecasting process
 |      [Forecasting Basics-Part II](Ch3-2.pdf)                     |•	Regression
-|        [R lab-IV](W4.html)                   |•	Exponential smoothing
+|        [R lab-IV](BANA4090_Week4_Lab5_Data-Examples_German-Forecasts.html)                   |•	Exponential smoothing
 |     [Q&A session for Midterm](MidtermExam.pdf)                    |•	Evaluation of model performance
 | **3**         | **Module 3 – Forecasting Models (weeks 7-10)**          |
 |    [ARIMA-PartI](Ch4-1.pdf)                    |•	AR, MA, ARMA
