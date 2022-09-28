@@ -60,7 +60,8 @@ While I will try to focus on the application over the theory to maximize the abo
 | **3**         | **Module 3 – Forecasting Models (weeks 7-10)**          |
 |    [ARIMA-PartI](Ch4-1.pdf)                    |•	AR, MA, ARMA
 |     [ARIMA-PartII](Ch4-2.pdf)                   |•	ARIMA
-|    [ARIMA-PartIII](Ch4-3.pdf)                      |•	Practical considerations
+|    [ARIMA-PartIII](Ch4-3.pdf)                      |
+|   [R lab-VIII](BANA4090_Week8_Lab8.html)  |•	Practical considerations
 | **4**         | **Module 4 – Additional Topics   (weeks 11-14)**          |
 |     [Additional Topics-Part I](Ch4-2.pdf)                   |•	Hierarchical time series and forecasting many time series
 |     [Additional Topics-Part II](Ch5-1.pdf)                    |•	Deep learning for forecasting
