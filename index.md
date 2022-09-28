@@ -65,11 +65,10 @@ While I will try to focus on the application over the theory to maximize the abo
  |   [R lab-IX](BANA4090_Week9_Lab9.html)  |•	Practical considerations-II|
  |   [R lab-X]( BANA4090_Week11_Lab10.html)  |•	Practical considerations-III|
 | **4**         | **Module 4 – Additional Topics   (weeks 11-14)**          |        
-|     [Additional Topics-Part II](Ch5-1.pdf)                    |•	Deep learning for forecasting
-|       [Additional Topics-Part III](Ch5-2.pdf)                    |•	Prophet
-|                       |•	Simple Exponential Smoothing
-|                        |•	Other R packages for efficient analysis and modeling
-|   [Q&A session for Final ](FinalExam.pdf)                         |•	Anomaly detection
+|     [Additional Topics-Part II](Ch5-1.pdf)                    |•	Exponential smoothing-I|
+|       [Additional Topics-Part III](Ch5-2.pdf)                    |•	Exponential smoothing-II|
+ |   [R lab-XI](BANA4090_Week12_Lab11.html)  |•	Practical considerations-I|
+ |   [R lab-XII]( BANA4090_Week11_Lab10.html)  |•	Practical considerations-II|
 
 ## Description of Major Assignments
  
