@@ -15,13 +15,13 @@ Welcome to Forecasting and Risk (BANA 4090)! The main objective of this course i
 <!---Understanding of traditional and modern approaches to forecasting --->
 <!---Exposure to common challenges and how to overcome --->
 ## Class Information
-                       * Name: Zhaohu(Jonathan) Fan
-                        *Title: PhD Candidate, Department of Operations, Business Analytics and Information Systems 
-                        *Office Information: LCB, Room 3327
-                       * Email: fanzh@mail.uc.edu 
+* Name: Zhaohu(Jonathan) Fan 
+* Title: PhD Candidate, Department of Operations, Business Analytics and Information Systems 
+* Office Information: LCB, Room 3327 
+* Email: fanzh@mail.uc.edu
 * Office Hours: Monday & Wednesday 11:00 AM to 12:00 PM via WebEx 
 (https://ucincinnati.webex.com/meet/fanzh)  and by appointment
-  
+ 
 Communication Policy: Students are encouraged to contact me anytime via email or phone. Please use email as the primary mode of contact.  A response will be given within 36-48 hours.  Please understand that I cannot guarantee an immediate response if you contact me very close to an assignment deadline. 
 
 
