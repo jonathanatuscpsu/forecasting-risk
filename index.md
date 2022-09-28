@@ -16,18 +16,19 @@ Welcome to Forecasting and Risk (BANA 4090)! The main objective of this course i
 <!---Exposure to common challenges and how to overcome --->
 ## Learning Objectives
 
-*	Equip students with proper foundation to approach time series analysis and forecasting projects 
-* Provide of project for portfolio 
-*	Practice with R programming language as it relates to time series data 
+* Provide students with a foundational knowledge of time series analysis
+* Expose students to a number of traditional and contemporary methods in time series and forecasting
+* Familiarize students with many of the challenges associated with time series forecasting
+* Provide students with practical experience analyzing real-world data and communicating the results
+
 
 While I will try to focus on the application over the theory to maximize the above objectives, I will provide additional optional reading for those interested in a deeper dive into the theory 🚀. 
 
 ## Upon successfully completing this course, you will be able to: 
+* have a solid foundation for approaching time series analysis and forecasting projects in the future 
+* provide of project for portfolio 
+*	practice with R programming language as it relates to time series data 
 
-* provide students with a foundational knowledge of time series analysis
-* expose students to a number of traditional and contemporary methods in time series and forecasting
-* familiarize students with many of the challenges associated with time series forecasting
-* provide students with practical experience analyzing real-world data and communicating the results
 
 ## Lecture materials (slides) and code demonstrating the relevant methods.
 
