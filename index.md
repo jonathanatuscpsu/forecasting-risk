@@ -35,9 +35,9 @@ While I will try to focus on the application over the theory to maximize the abo
 |:-------------:|:--------------------------------------------------------------------|
 | **1**         | **Module 1 – Practical Time Series Analysis (weeks 1-3)**          |
 |      [Welcome](Welcome.pdf)                 | •	Why is time series analysis and forecasting important?             |
-|       [R lab](W3.html)             | •	How to approach a forecasting problem 
-|                             | •	Visualization and exploration of time series data |
-|                   | •		Wrangling with time series objects|
+|       [R lab](W1.html)             | •	How to approach a forecasting problem 
+|          [R lab](W2.html)                     | •	Visualization and exploration of time series data |
+|         [R lab](W3.html)            | •		Wrangling with time series objects|
 |                        |•	Decomposition |
 |                        |•	Features of time series data
 | **2**         | **Module 2 – Forecasting Basics (weeks 4-6)**          |
