@@ -18,7 +18,7 @@ Welcome to Forecasting and Risk (BANA 4090)! The main objective of this course i
 * Name: Zhaohu(Jonathan) Fan 
 * Title: PhD Candidate, Department of Operations, Business Analytics and Information Systems 
 * Office Information: LCB, Room 3327 
-* Email: fanzh@mail.uc.edu
+* Email: fanzh@ucmail.uc.edu
 * Office Hours: Monday & Wednesday 11:00 AM to 12:00 PM via WebEx 
 (https://ucincinnati.webex.com/meet/fanzh)  and by appointment
  
