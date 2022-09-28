@@ -21,8 +21,6 @@ Welcome to Forecasting and Risk (BANA 4090)! The main objective of this course i
 ## Learning Objectives
 
 *	Equip students with proper foundation to approach time series analysis and forecasting projects 
- 
-
 * Provide of project for portfolio 
 *	Practice with R programming language as it relates to time series data 
 
