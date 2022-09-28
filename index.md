@@ -69,8 +69,8 @@ While I will try to focus on the application over the theory to maximize the abo
 |       [Additional Topics-Part III](Ch5-2.pdf)                    |•	Exponential smoothing-II|
  |   [R lab-XI](BANA4090_Week12_Lab11.html)  |•	Practical considerations-I|
  |   [R lab-XII]( BANA4090_Week11_Lab10.html)  |•	Practical considerations-II|
- |   [R lab-XII]( Week12_Holt's Method.html)  |•	R lab (Holt's Method)|
-  |   [R lab-XII]( Week12_Holt-Winter-Method.html)  |•	R lab (Holt-Winter Method)|
+ |   [R lab-XII](Week12.html)  |•	R lab (Holt's Method)|
+  |  [R lab-XII]( Week12_Holt-Winter-Method.html)  |•	R lab (Holt-Winter Method)|
 ## Description of Major Assignments
  
  - **Exam**  – There will be two exams given during class  after we finish module 2 and module 4 to assess grasp of key concepts of time series analysis and forecasting.
