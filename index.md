@@ -75,7 +75,7 @@ While I will try to focus on the application over the theory to maximize the abo
  
  - **Exam**  – There will be two exams given during class  after we finish module 2 and module 4 to assess grasp of key concepts of time series analysis and forecasting.
  
- - **Assignments**  – 5 take-home assignments will be given throughout the semester. Students will have 2 weeks to complete the assignments. 
+ - **Assignments**  – 4 take-home assignments will be given throughout the semester. Students will have 2 weeks to complete the assignments. 
  
  - **Discussions**  – The first 14 classes will have in-class labs/discussions. Write-ups from these discussions/labs are to be submitted on Canvas by 11:59pm on the   Sunday after class. If you cannot make the class, these will be posted and submission will be allowed.
  
