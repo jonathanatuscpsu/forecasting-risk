@@ -89,9 +89,6 @@ The primary course material is provided via this Jupyter Book resource [:closed_
 **Class video, homework and class projects are available in Canvas. Please check homework in Canvas and submit all your homework through Canvas. All announcements are in Canvas.** 
 
 
-
-
-
 <!---In Class Exercises 
    - Data Sets: data_chicago.csv, data_delta.csv, data_vote.csv
    - Homework:
