@@ -56,12 +56,12 @@ While I will try to focus on the application over the theory to maximize the abo
 |      [Forecasting Basics-Part II](Ch3-2.pdf)                     |•	Forecasting process
 |        [R lab-IV](BANA4090_Week4_Lab5_Data-Examples_German-Forecasts.html)  |         
 |      [R lab-VI](BANA4090_Week5_Lab6_Data-Examples_German-Forecasts.html)   |                 
-|   [R lab-VII](BANA4090_Week7_Lab7.html)  |•	R lab	(Evaluation of model performance)
+|   [R lab-VII](BANA4090_Week7_Lab7.html)  |•	R lab	(Evaluation of model performance-I)|
 | **3**         | **Module 3 – Forecasting Models (weeks 7-10)**          |
 |    [ARIMA-Part I](Ch4-1.pdf)                    |•	AR, MA, ARMA|
 |     [ARIMA-Part II](Ch4-2.pdf)                   |•	ARIMA|
 |    [ARIMA-Part III](Ch4-3.pdf)                      |•	ARIMA|
-|   [R lab-VIII](BANA4090_Week8_Lab8.html)  |•	Practical considerations-I |
+|   [R lab-VIII](BANA4090_Week8_Lab8.html) |•	R lab	(Evaluation of model performance-II)|
  |   [R lab-IX](BANA4090_Week9_Lab9.html)  |•	R lab (ARIMA-I)|
  |   [R lab-X]( BANA4090_Week11_Lab10.html)  |•	R lab (ARIMA-II)|
 | **4**         | **Module 4 – Additional Topics   (weeks 11-14)**          |        
