@@ -38,7 +38,7 @@ While I will try to focus on the application over the theory to maximize the abo
 | Module        | Description                                                         |
 |:-------------:|:--------------------------------------------------------------------|
 | **1**         | **Module 1 – Practical Time Series Analysis (weeks 1-3)**          |
-|      [Welcome](Welcome.html)                 | •	Why is time series analysis and forecasting important?             |
+|      [Welcome](Welcome.pdf)                 | •	Why is time series analysis and forecasting important?             |
 |               | •	How to approach a forecasting problem 
 |                        | •	Visualization and exploration of time series data |
 |                        | •		Wrangling with time series objects|
