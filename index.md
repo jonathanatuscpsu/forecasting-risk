@@ -94,6 +94,6 @@ Acknowledgments: I have drawn ideas or readings from the following texts:
  - Bradley Boehmke, [UC BANA 6043 Statistical Computing](https://github.com/bradleyboehmke/uc-bana-6043)
  - Ethan Swan, [Python for Data Science](https://github.com/uc-python)
  - And many more.
- <!---- Dan Shah, Applied Forecasting
- - Alexander K. Antony,  Forecasting methods--->
+<!--- Dan Shah, Applied Forecasting--->
+<!---Alexander K. Antony,  Forecasting methods--->
 
