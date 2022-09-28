@@ -54,8 +54,8 @@ While I will try to focus on the application over the theory to maximize the abo
 | **2**         | **Module 2 – Forecasting Basics (weeks 4-6)**          |
 |     [Forecasting Basics-Part I](Ch3-1.pdf)                    | •Four simple forecasting models
 |      [Forecasting Basics-Part II](Ch3-2.pdf)                     |•	Forecasting process
-|        [R lab-IV](BANA4090_Week4_Lab5_Data-Examples_German-Forecasts.html)  |         
-|      [R lab-VI](BANA4090_Week5_Lab6_Data-Examples_German-Forecasts.html)   |                 
+|        [R lab-IV](BANA4090_Week4_Lab5_Data-Examples_German-Forecasts.html)  |  •	R lab    (Basic tools For forecasting-I)|  
+|      [R lab-VI](BANA4090_Week5_Lab6_Data-Examples_German-Forecasts.html)   |     •	R lab      (Basic tools For forecasting-II)|          
 |   [R lab-VII](BANA4090_Week7_Lab7.html)  |•	R lab	(Evaluation of model performance-I)|
 | **3**         | **Module 3 – Forecasting Models (weeks 7-10)**          |
 |    [ARIMA-Part I](Ch4-1.pdf)                    |•	AR, MA, ARMA|
