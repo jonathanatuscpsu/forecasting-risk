@@ -68,8 +68,8 @@ While I will try to focus on the application over the theory to maximize the abo
 |     [Additional Topics-Part II](Ch5-1.pdf)                    |•	Exponential smoothing-I|
 |       [Additional Topics-Part III](Ch5-2.pdf)                    |•	Exponential smoothing-II|
  |   [R lab-XI](BANA4090_Week12_Lab11.html)  |• R lab (Simple Exponential Smoothing)|
- |   [R lab-XII](W12.html)  |•	R lab (Holt's Method)|
-  |  [R lab-XIII]( Week12_Holt-Winter-Method.html)  |•	R lab (Holt-Winter Method)|
+ |   [R lab-XII](W13.html)  |•	R lab (Holt's Method)|
+  |  [R lab-XIII]( Week14.html)  |•	R lab (Holt-Winter Method)|
   
 ## Description of Major Assignments
  
