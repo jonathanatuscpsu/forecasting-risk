@@ -3,10 +3,6 @@ Welcome to Forecasting and Risk (BANA 4090)! The main objective of this course i
 <!---While covering core concepts like univariate and multivariate forecasting/evaluation of forecasts are critical, I believe we should also cover topics like approaching a forecasting a problem, wrangling with time series data/objects, advanced topics like neural networks for time series, hierarchical data and practical issues when approaching a problem and implementing a solution.--->
 
 
-
-
-
-
 <!---This is a course in the analysis of time series data with emphasis on appropriate choice of models for estimation, testing, and forecasting. Topics or methodologies covered include Univariate Box-Jenkins for fitting and forecasting time series; ARIMA models, stationarity and nonstationarity; diagnosing time series models; transformations; forecasting: point and interval forecasts; seasonal time series models; modeling volatility with ARCH, GARCH; modeling time series with trends; and other methods. --->
 
 
@@ -40,30 +36,30 @@ While I will try to focus on the application over the theory to maximize the abo
 | **1**         | **Module 1 – Practical Time Series Analysis (weeks 1-3)**          |
 |      [Welcome](Welcome.pdf)                 | •	Why is time series analysis and forecasting important?             |
 |               | •	How to approach a forecasting problem 
-|                        | •	Visualization and exploration of time series data |
-|                        | •		Wrangling with time series objects|
+|                             | •	Visualization and exploration of time series data |
+|                   | •		Wrangling with time series objects|
 |                        |•	Decomposition |
 |                        |•	Features of time series data
 | **2**         | **Module 2 – Forecasting Basics (weeks 4-6)**          |
-|                        |•	Forecasting process
-|                        |•	Regression
+|     [Forecasting Basics-Part I](Ch3-1.pdf)                    |•	Forecasting process
+|      [Forecasting Basics-Part II](Ch3-2.pdf)                     |•	Regression
 |                        |•	Exponential smoothing
-|                        |•	Evaluation of model performance
+|     [Q&A session for Midterm](MidtermExam.pdf)                    |•	Evaluation of model performance
 | **3**         | **Module 3 – Forecasting Models (weeks 7-10)**          |
-|                        |•	ARIMA
-|                        |•	Dynamic Regression Models
-|                        |•	Practical considerations
+|    [ARIMA-PartI](Ch4-1.pdf)                    |•	AR, MA, ARMA
+|     [ARIMA-PartII](Ch4-2.pdf)                   |•	ARIMA
+|    [ARIMA-PartIII](Ch4-3.pdf)                      |•	Practical considerations
 | **4**         | **Module 4 – Additional Topics   (weeks 11-14)**          |
-|                        |•	Hierarchical time series and forecasting many time series
-|                        |•	Deep learning for forecasting
-|                        |•	Prophet
+|     [Additional Topics-Part I](Ch4-2.pdf)                   |•	Hierarchical time series and forecasting many time series
+|     [Additional Topics-Part II](Ch5-1.pdf)                    |•	Deep learning for forecasting
+|       [Additional Topics-Part III](Ch5-2.pdf)                    |•	Prophet
 |                        |•	Anomaly detection
 |                        |•	Other R packages for efficient analysis and modeling
-|                        |•	Anomaly detection
+|   [Q&A session for Final ](FinalExam.pdf)                         |•	Anomaly detection
 
 ## Description of Major Assignments
  
- - **Exam**  – There will be one exam given during class (~half of class) after we finish module 3 to assess grasp of key concepts of time series analysis and forecasting.
+ - **Exam**  – There will be two exams given during class  after we finish module 2 and module 4 to assess grasp of key concepts of time series analysis and forecasting.
  
  - **Assignments**  – 5 take-home assignments will be given throughout the semester. Students will have 2 weeks to complete the assignments. 
  
