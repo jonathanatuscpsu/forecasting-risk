@@ -61,8 +61,9 @@ While I will try to focus on the application over the theory to maximize the abo
 |    [ARIMA-PartI](Ch4-1.pdf)                    |•	AR, MA, ARMA
 |     [ARIMA-PartII](Ch4-2.pdf)                   |•	ARIMA
 |    [ARIMA-PartIII](Ch4-3.pdf)                      |
-|   [R lab-VIII](BANA4090_Week8_Lab8.html)  |•	Practical considerations-I
+|   [R lab-VIII](BANA4090_Week8_Lab8.html)  |•	Practical considerations-IIX, 
  |   [R lab-IX](BANA4090_Week9_Lab9.html)  |•	Practical considerations-II
+ |   [R lab-X]( BANA4090_Week11_Lab10.html)  |•	Practical considerations-III
 | **4**         | **Module 4 – Additional Topics   (weeks 11-14)**          |
 |     [Additional Topics-Part I](Ch4-2.pdf)                   |•	Hierarchical time series and forecasting many time series
 |     [Additional Topics-Part II](Ch5-1.pdf)                    |•	Deep learning for forecasting
