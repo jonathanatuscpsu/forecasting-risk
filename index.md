@@ -66,7 +66,6 @@ While I will try to focus on the application over the theory to maximize the abo
  |   [R lab-X]( BANA4090_Week11_Lab10.html)  |•	R lab (ARIMA-II)|
 | **4**         | **Module 4 – Additional Topics   (weeks 11-14)**          |        
 |     [Additional Topics-Part II](Ch5-1.pdf)                    |•	Exponential smoothing-I|
-|       [Additional Topics-Part III](Ch5-2.pdf)                    |•	Exponential smoothing-II|
  |   [R lab-XI](BANA4090_Week12_Lab11.html)  |• R lab (Simple Exponential Smoothing)|
  |   [R lab-XII](Week13.html)  |•	R lab (Holt's Method)|
   |  [R lab-XIII]( Week14.html)  |•	R lab (Holt-Winter Method)|
