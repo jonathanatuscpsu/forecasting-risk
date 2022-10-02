@@ -77,7 +77,7 @@ While I will try to focus on the application over the theory to maximize the abo
   
 ## Description of Major Assignments
  
- - **Exam**  – There will be two exams given during class  after we finish module 2 and module 4 to assess grasp of key concepts of time series analysis and forecasting.
+ - **Exams**  – There will be two exams given during class  after we finish module 2 and module 4 to assess grasp of key concepts of time series analysis and forecasting.
  
  - **Assignments**  – 4 take-home assignments will be given throughout the semester. Students will have 2 weeks to complete the assignments. 
  
