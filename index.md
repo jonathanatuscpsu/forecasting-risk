@@ -1,4 +1,6 @@
-This course is for junior/senior undergraduate students. The main objective of this course is to provide you with the proper foundation to analyze and forecast time series data in a professional setting. This means that in addition to forecasting into the future and evaluating such forecasts we will discuss other topics to prepare you for your journey as an analyst.  A survey of analytical techniques used in forecasting. Techniques include exponential smoothing, ARIMA, multiple regression, and judgement-based methods.  Implementation issues and challenges are discussed.
+This course is designed for junior and senior undergraduate students interested in developing a solid foundation in time series analysis and forecasting. The primary goal is to prepare you to apply forecasting techniques in real-world professional settings. In addition to generating and evaluating forecasts, the course will cover key topics that support your development as a future analyst.
+
+Students will explore a range of analytical techniques commonly used in forecasting, including exponential smoothing, ARIMA models, multiple regression, and judgment-based methods. We will also address practical implementation challenges and considerations encountered in applied forecasting work.
 
 <!---https://catalog.barnard.edu/barnard-college/courses-instruction/course-search/?term=3&level=4000%2C9999&pl=0&ph=10&college=BC--->
 
