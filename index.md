@@ -21,7 +21,7 @@ We will explore a range of analytical forecasting methods, including exponential
 ## Class Information
 * Name: Zhaohu (Jonathan) Fan 
 * Title: PhD Candidate, Department of Operations, Business Analytics and Information Systems 
-* Office Information: LCB, Room 3327 
+* Office Information: Lindner College of Business (LCB), Room 3327 
 * Email: fanzh@ucmail.uc.edu
 * Office Hours: Monday & Wednesday 11:00 AM to 12:00 PM and by appointment
  
